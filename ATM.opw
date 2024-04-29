@@ -1,0 +1,7 @@
+[RESOURCES]
+atm machine
+[VARIABLES]
+People Served.NumberOut
+Use ATM.NumberIn
+People Arrive.NumberOut
+Use ATM.NumberOut
